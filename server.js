@@ -10,7 +10,8 @@ var content ={
     title : 'Article one',
     date:'sep28,2016',
     content:
-        <p>
+        
+        `<p>
                 This was created by myself    This was created by myself
                 This was created by myself     This was created by myself
             </p>

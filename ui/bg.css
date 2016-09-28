@@ -1,1 +1,14 @@
-.container
+
+.container{
+/*font-family: sans-serif;
+max-width: 800px;
+margin: 0 auto; */
+font-family: sans-serif; 
+max-width: 800px;
+margin: 0 auto;
+margin-top: 75px;
+PADDING-TOP: 11PX;
+PADDING-LEFT: 200PX;
+PADDING-RIGHT: 100PX;
+COLOR: #ff0057;
+}
